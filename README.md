@@ -16,3 +16,6 @@ print (dt)
 dt.tzname()
 dt.utcoffset()
 ```
+
+# Running Tests
+`cd` to the directory and run `pytest`.
