@@ -7,7 +7,7 @@ Nautical timezones information:
 
 # Usage
 Example usage:
-```
+```python
 import time
 from nautical_timezone_converter.converter import utc_to_nautical_time
 t = time.time()
